@@ -13,7 +13,7 @@ export default async function HomePage() {
   return (
     <main className="mx-auto max-w-2xl px-4 py-16">
       <div className="flex items-center justify-between">
-        <h1 className="text-3xl font-bold">IdeaWall 💡</h1>
+        <h1 className="text-3xl font-bold">IdeaWall 💡 Preview</h1>
         <nav className="flex items-center gap-4">
           {user ? (
             <>
